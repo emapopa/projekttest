@@ -40,7 +40,9 @@
  </details>
 
  ## About The Project
+ 
  ### Built With 
+ 
 * [Sass](https://sass-lang.com)
 * [Tailwind](https://tailwindcss.com)
 * [AWS s3](https://s3.console.aws.amazon.com/s3)
