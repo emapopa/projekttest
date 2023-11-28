@@ -37,3 +37,15 @@
     <li><a href="#wireframes">Wireframes</a></li>
     <li><a href="#license">License</a></li>
   </ol>
+ </details>
+
+ ## About The Project
+ ### Built With 
+* [Sass](https://sass-lang.com)
+* [Tailwind](https://tailwindcss.com)
+* [AWS s3](https://s3.console.aws.amazon.com/s3)
+* [Laravel](https://laravel.com)
+
+### Code Standarts
+* [Psr-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
+* [Psr-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
