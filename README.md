@@ -125,3 +125,23 @@ php artisan serve
 | City        | Stockholm   |
 | Goal        | David is an active user on IMDb and mainly uses it to search for movie information and heavily relies on the search filter function. David would also love to see an improved trailer watching experience with a genre filter.|
 
+
+## User Stories
+
+### Website Users
+As a Website User, I am busy and have little time to find information about movies. I want to be able to find information about movies quickly and painlessly. Ideally with as few clicks as possible.
+
+As a Website User, finding the correct movie is vital. I want to see different results of movies in a clear and concise manner so that I can easily know which movies I should watch, or learn more about.
+
+###    Website Registered Users
+As a Registered Website User, I am concerned with keeping track of what movies I want to watch, what movies I’m reviewing, have reviewed or am planning to review. I want to have the possibility to manage several lists of movies I want to watch, as well as movies I am currently reviewing or have planned to review.
+
+### Website Admin
+As a Admin, I want to be able to add new movies and information about movies in a ordered way. I need to have the possibility to separate movies into different categories and provide additional metadata about each movie, as well as linking them to actors, directors and so on.
+
+As a Admin, I want to be able to track what users of the website are doing in terms of reviewing movies and putting in their watchlists. I’d also want to be able to grant and remove roles to different users, granting them access to specific functionality as either an admin or restricting them to a regular user.
+
+## Sitemap
+<!--Insert Sitemap -->
+![Sitemap](/sitemap.jpg?raw=true)
+
