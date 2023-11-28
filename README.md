@@ -125,4 +125,3 @@ php artisan serve
 | City        | Stockholm   |
 | Goal        | David is an active user on IMDb and mainly uses it to search for movie information and heavily relies on the search filter function. David would also love to see an improved trailer watching experience with a genre filter.|
 
-
