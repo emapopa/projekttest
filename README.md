@@ -145,3 +145,21 @@ As a Admin, I want to be able to track what users of the website are doing in te
 <!--Insert Sitemap -->
 ![Sitemap](/sitemap.jpg?raw=true)
 
+### ER-diagram (not up to date)
+![Er-diagram](/erdiagram.png?raw=true)
+
+## Wireframes
+
+### Wireframe
+![Wireframe](/wireframe1.png?raw=true)
+![Wireframe-assist](/wireframe2.png?raw=true)
+### Prototype
+<!--Insert Adobe XD file download-->
+<!--Insert prototype Image-->
+![Mockup](/prototyp.png?raw=true)
+
+## License
+
+Distributed under the GNU GPLv3 License. 
+
+
