@@ -51,3 +51,22 @@
 ### Code Standarts
 * [Psr-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
 * [Psr-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+
+## Goals and Context
+Our goal is to create a competent and smart website that gathers all relevant information about, and around movies.
+
+### Project Solves?
+At present, information about movies and managing lists of movies that one would like to see is too cumbersome for many competitors. By creating a more user-focused experience, this process can be facilitated and thus attract more visitors. With an increased interest in the service can also publish and administer film content
+
+### Our Vision?
+By creating a modern user experience, there is the opportunity to enter the market and thus get a large number of users. This in turn can in the long run create opportunities for advertising campaigns from various stakeholders such as product companies that offer sales of film-related products as well as service providers who may be interested in behavioral patterns and trends. Creating an exceptional experience, on mobile as well as in the browser can potentially create a viral reception of users.
+
+<!-- GETTING STARTED --> 
+ ## Getting Started
+  ## Intsallation
+
+  1. Run composer
+     ```
+     composer install
+     ```
+
