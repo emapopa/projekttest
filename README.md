@@ -65,8 +65,49 @@ By creating a modern user experience, there is the opportunity to enter the mark
  ## Getting Started
   ## Intsallation
 
-  1. Run composer
+ 1. Run composer
      ```
      composer install
      ```
 
+2. Install npm dependencies
+```
+npm install
+```
+3. Setup AWS s3 Bucket in .env
+```
+AWS_ACCESS_KEY_ID=xxxx-xxxx-xxxx
+AWS_SECRET_ACCESS_KEY=xxxx-xxxx-xxxx-xxxx
+AWS_DEFAULT_REGION=eu-north-1
+AWS_BUCKET=xxxx-xxxx-xxxx
+```
+4. Fix db in .env 
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=xxxx
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+5. Run php artisan serve
+
+```
+php artisan serve
+```
+6. You're **done**! 🎉
+
+
+## Page and  Route Description
+
+
+| Page        | Items       |
+| ----------- | ----------- |
+| **Landing page** <br /> <br /> /  | Start page |
+| **Login, signup etc.** <br /> <br /> /login <br /> /logout <br /> /register <br /> /forgot-password | Self-explanatory routes and methods for authentication  |
+| **User profile** <br /> <br /> /profile/{id} <br /> /watchlist{id} <br /> /profile/{id}/edit | Routes related to the user  |
+| **Item page** <br /> <br /> /title/{title_id} <br /> /title/{title_id}/reviews | Routes related to movies |
+| **Top rated** <br /> <br /> /chart/top <br /> /chart/new| Top rated movies |
+| **Admin** <br /> <br /> /admin/dashboard <br /> /admin/users <br /> /admin/movies | Administrative related routes |
+| **Genre Page** <br /> <br /> /genre/{genre} | Route for showing movies and TV-shows by genre |
